@@ -15,7 +15,7 @@ You can install this library using gradle:
 ```
   ```
   dependencies {
-	        implementation 'com.github.enesigneci:CustomColoredToastApp:1.0'
+	        implementation 'com.github.enesigneci:CustomColoredToastApp:1.1'
 	}
 ```
 ## Usage
