@@ -20,7 +20,7 @@ You can install this library using gradle:
 ```
 ## Usage
  ```java
- CustomColoredToast.makeCustomColoredToast(MainActivity.this,"Custom Toast",CustomColoredToast.LENGTH_LONG,R.color.colorPrimary);
+         CustomColoredToast.makeCustomColoredToast(MainActivity.this,"Custom Toast",CustomColoredToast.LENGTH_LONG,"#FF0000");
  ```
  
  Thanks
